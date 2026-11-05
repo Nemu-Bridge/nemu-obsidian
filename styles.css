@@ -1,0 +1,5 @@
+.nemu-sync-sign-in .nemu-sync-code {
+  font-family: var(--font-monospace);
+  font-size: 1.4em;
+  letter-spacing: 0.1em;
+}

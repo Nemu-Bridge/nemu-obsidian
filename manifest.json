@@ -1,0 +1,10 @@
+{
+  "id": "nemu-sync",
+  "name": "Nemu Sync",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Sync this vault with Nemu Context, including private vaults sealed on your device.",
+  "author": "Nemu",
+  "authorUrl": "https://nemu.cc",
+  "isDesktopOnly": false
+}
